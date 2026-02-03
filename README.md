@@ -9,7 +9,9 @@ This project analyzes coffee shop sales data to optimize staffing efficiency and
 * **Tableau Visualization:** Designed interactive dashboards and heatmaps to reveal sales trends.
 * **Analytical Thinking** Translated data findings into operational strategies suggestions and structured reporting.
 
+## Dashboard Preview
+![Coffee Shop Dashboard](Coffee%20Shop%20Analysis_Dashboard.png)
+
 ## Project Files
-* **[View Full Analysis Report (PDF)](   )** **Click here to see the full report!**
-* **[View Raw Data & Excel Workbook](   )**
+* **[View Full Analysis Report (PDF)](Coffee%20Shop%20Sales%20Analysis.pdf)** **Click here to see the full report!**
 
