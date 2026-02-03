@@ -26,5 +26,5 @@ This project analyzes coffee shop sales data to optimize staffing efficiency and
 * **[View Full Analysis Report (PDF)](Coffee%20Shop%20Sales%20Analysis.pdf)** **Click here to see the full report!**
 
 ## Interactive Dashboard
-🔗 [Interactive dashboard on Tableau Public](https://public.tableau.com/views/CafeShopSales_Analysis_Final/Dashboard1?:language=zh-TW&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* [Interactive dashboard on Tableau Public](https://public.tableau.com/views/CafeShopSales_Analysis_Final/Dashboard1?:language=zh-TW&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
